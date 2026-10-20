@@ -28,7 +28,7 @@ class PredictionRequest(BaseModel):
     chol: float
     fbs: float
     restecg: float
-    thalch: float
+    thalach: float
     exang: float
     oldpeak: float
     slope: float

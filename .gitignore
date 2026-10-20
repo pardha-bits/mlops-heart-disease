@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# MLflow generated files
+mlruns/
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+
+# Environment and operating-system files
+.env
+.env.*
+!.env.example
+.DS_Store
